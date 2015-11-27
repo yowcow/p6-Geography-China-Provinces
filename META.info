@@ -1,0 +1,11 @@
+{
+    "name": "Geography::China::Provinces",
+    "version": "0.0.1",
+    "description": "Retrieves ISO 3166:CN standard Chinese provinces",
+    "author": "Yowcow Ohyama",
+    "provides": {
+        "Geography::China::Provinces": "lib/Geography/China/Provinces.pm6"
+    },
+    "depends": [],
+    "source-url": "git://github.com:yowcow/p6-Geography-China-Provinces.git"
+}
